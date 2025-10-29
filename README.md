@@ -7,11 +7,11 @@
 
 ---
 
-## 🚀 Atualmente estudando
+## 🚀 **Atualmente estudando**
 
-- 🌱 Aprendendo Flutter para desenvolvimento mobile multiplataforma  
-- 🔐 Cibersegurança ofensiva: pentest.
-- 🐧 Automatizando tarefas no Linux com Bash e Python
+- 🌱 **Aprendendo Flutter para desenvolvimento mobile multiplataforma**  
+- 🔐 **Cibersegurança ofensiva: pentest.**
+- 🐧 **Automatizando tarefas no Linux com Bash e Python**
 
 ---
 
