@@ -1,7 +1,12 @@
 ![Header](https://i.imgur.com/tNiB6XR.gif)
 
 
-
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)
+![Hacker](https://img.shields.io/badge/Hack_the_Planet-000000?style=for-the-badge&logo=protonmail&logoColor=white)
+![Powered by Arch Linux](https://img.shields.io/badge/Powered_by-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Vim User](https://img.shields.io/badge/Editor-Vim-57A143?style=for-the-badge&logo=vim&logoColor=white)
+![Terminal Addicted](https://img.shields.io/badge/Living_in-the_terminal-000000?style=for-the-badge)
+---
 
 
 
