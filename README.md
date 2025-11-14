@@ -25,9 +25,7 @@
 <h4 align="left">A órbita geoestacionária 🌍 é uma órbita circular a cerca de 35.786 km 🚀 da Terra 🌐, onde o satélite 🛰️ se move com a mesma velocidade angular de rotação do planeta 🌪️. Isso faz com que o satélite pareça ficar fixo sobre um ponto específico da superfície 🌞. É usada em satélites de comunicação 📞, meteorologia 🌧️ e outros serviços que necessitam de cobertura constante 🌈. </h4>
 <img src="https://i.imgur.com/jka9YQI.jpeg" width="200">
 
-## 📈 Stats
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=panda12332145&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3>Arduino Power🦾</h3>
 <a href="https://map-of-machines-infected-by-my-tuxpj.netlify.app/">
