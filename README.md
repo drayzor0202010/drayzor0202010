@@ -65,7 +65,7 @@
 
 ### Operating Systems:
 
-![ParrotOs](https://img.shields.io/badge/Parrot_Os-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <div src="https://cdn.discordapp.com/attachments/718787284974960663/883432416574857226/Github7.gif">
