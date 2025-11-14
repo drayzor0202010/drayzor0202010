@@ -85,7 +85,7 @@
 <p align="center"> <a href="https://www.reddit.com/user/Panda_123321/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="blank"><img src="https://img.shields.io/badge/Chat_with_@Panda_123321--URL?style=social&logo=reddit&link=https%3A%2F%2Fwww.reddit.com%2Fchat%2Fuser_id%2Ft2_1091wg" alt="" /></a> </p>
 <div align="left">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!++!;" />
 </h1>
 
 ![Snake animation](https://github.com/panda12332145/panda12332145/blob/output/github-contribution-grid-snake.svg)
