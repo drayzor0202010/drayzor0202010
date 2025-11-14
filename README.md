@@ -80,8 +80,7 @@
 </a>
 
 
-
-<div src="https://cdn.discordapp.com/attachments/718787284974960663/883432416574857226/Github7.gif">
+ src="https://cdn.discordapp.com/attachments/718787284974960663/883432416574857226/Github7.gif">
 </div>
 
 
