@@ -72,7 +72,7 @@
 
 
 <a href="https://github.com/panda12332145/panda12332145/blob/main/sak.gif">
-  <img src="https://github.com/panda12332145/panda12332145/blob/main/sak.gif" alt="Sak GIF" width="100%" height="100%" style="width:auto; height:auto"/>
+  <img src="https://cdn.discordapp.com/attachments/1430392314232045568/1438735568329642107/5e3b88df8c43e5528d08c0b1899b669b.jpg?ex=6917f669&is=6916a4e9&hm=ccecd7b5ef196f2ee326676a278e3ac75b01efb85f06549ecf5bf00516f2a872&" alt="Sak GIF" width="100%" height="100%" style="width:auto; height:auto"/>
 </a>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=0.5/>
 
