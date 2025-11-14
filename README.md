@@ -4,8 +4,8 @@
 
 <center>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=C700FF&center=true&vCenter=true&width=600&lines=Hello%2C+i'am+gudan.;digitalWrite(13%2C+HIGH)%3B">
-
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=C700FF&center=true&vCenter=true&width=600&lines=Hello%2C+i'am+gudan.;digitalWrite(13%2C+HIGH)%3B">" />
+  </a>
 </center>
 <h4 align="left">🌟Atualmente, estou cursando Ciência da Computação na PUCMG, onde aprofundo meus conhecimentos em áreas como cibersegurança, redes e programação. Além dos estudos acadêmicos, estou constantemente aprimorando minhas habilidades em hacking ético, engenharia reversa e sistemas de segurança. Meu objetivo é me tornar um especialista na área, focando em contribuir para a pesquisa e inovação tecnológica. Busco uma base sólida para alcançar a excelência no meu campo e conquistar independência financeira. 💻🔐💸.
 <br> </h4>
@@ -74,16 +74,25 @@
 
 ### Operating Systems:
 
+![ParrotOs](https://img.shields.io/badge/Parrot_Os-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<a href="https://archlinux.org/">
-  <img src="https://img.shields.io/badge/ARCH%20LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
-</a>
-
-
- src="https://cdn.discordapp.com/attachments/718787284974960663/883432416574857226/Github7.gif">
+<div src="https://cdn.discordapp.com/attachments/718787284974960663/883432416574857226/Github7.gif">
 </div>
 
+  ##
 
+### social media
+<div> 
+  <a href="https://www.instagram.com/01pandal10" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@X86BinaryGhost" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" target="_blank"></a>
+ <a href="https://discord.gg/p" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://twitter.com/Panda1233212?s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<p align="center"> <a href="https://x.com/Panda1233212" target="blank"><img src="https://img.shields.io/twitter/follow/easyaspython?label=Follow&style=social" alt="" /></a> </p>
+<div align="center">
+<p align="center"> <a href="https://www.reddit.com/user/Panda_123321/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button" target="blank"><img src="https://img.shields.io/badge/Chat_with_@Panda_123321--URL?style=social&logo=reddit&link=https%3A%2F%2Fwww.reddit.com%2Fchat%2Fuser_id%2Ft2_1091wg" alt="" /></a> </p>
+<div align="left">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Thank+You!+👍;+for+your+visit+📱+!;" />
 </h1>
 
