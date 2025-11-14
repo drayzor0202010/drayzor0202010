@@ -75,7 +75,11 @@
 ### Operating Systems:
 
 
-  <img src="https://img.shields.io/badge/ARCH%20LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"
+<a href="https://archlinux.org/">
+  <img src="https://img.shields.io/badge/ARCH%20LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
+</a>
+
+
 
 <div src="https://cdn.discordapp.com/attachments/718787284974960663/883432416574857226/Github7.gif">
 </div>
