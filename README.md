@@ -54,7 +54,6 @@
 
 ### Languages I have proficiencies in:
 
-![C](src="https://img.shields.io/badge/C-%23239120.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"
 ![Batch & ShellScript](https://img.shields.io/badge/-ShellScript&BatchScript-0D1117?style=for-the-badge&logo=gnu-bash&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
