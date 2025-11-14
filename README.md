@@ -9,11 +9,7 @@
 <h4 align="left">🍀Atualmente, estou focado no estudo de Arduino, explorando eletrônica, sensores e automação para entender como hardware e software podem trabalhar juntos. Além disso, estou avançando no aprendizado de Flutter, onde busco dominar o desenvolvimento multiplataforma, criando aplicativos modernos e eficientes para Android, iOS e Web. Paralelamente, continuo aprimorando minha lógica, minhas bases em programação e meu entendimento sobre sistemas e conectatividades. Meu objetivo é se tornar um profissional, capaz de criar coisas completas.💭
 <br> </h4>
 
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white)
-![Hacker](https://img.shields.io/badge/Hack_the_Planet-000000?style=for-the-badge&logo=protonmail&logoColor=white)
-![Powered by Arch Linux](https://img.shields.io/badge/Powered_by-Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Vim User](https://img.shields.io/badge/Editor-Vim-57A143?style=for-the-badge&logo=vim&logoColor=white)
-![Terminal Addicted](https://img.shields.io/badge/Living_in-the_terminal-000000?style=for-the-badge)
+
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 
