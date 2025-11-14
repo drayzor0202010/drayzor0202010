@@ -52,7 +52,7 @@
 
 <br/>
 
-### Languages I have proficiencies in:
+### Languages I have Love in:
 ![C Badge](https://img.shields.io/badge/C-language-00599C?style=for-the-badge)
 ![Batch & ShellScript](https://img.shields.io/badge/-ShellScript&BatchScript-0D1117?style=for-the-badge&logo=gnu-bash&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=1572B6&labelColor=0D1117)&nbsp;
@@ -68,8 +68,6 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<div src="https://cdn.discordapp.com/attachments/718787284974960663/883432416574857226/Github7.gif">
-</div>
 
   ##
 
