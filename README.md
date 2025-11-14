@@ -74,7 +74,7 @@
 
 ### Operating Systems:
 
-href="https://archlinux.org/">
+
   <img src="https://img.shields.io/badge/ARCH%20LINUX-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" />
 </a>)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
