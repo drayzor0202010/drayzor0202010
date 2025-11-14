@@ -23,7 +23,7 @@
 
 <h3>🌟 GeostationaryOrbit:</h3>
 <h4 align="left">A órbita geoestacionária 🌍 é uma órbita circular a cerca de 35.786 km 🚀 da Terra 🌐, onde o satélite 🛰️ se move com a mesma velocidade angular de rotação do planeta 🌪️. Isso faz com que o satélite pareça ficar fixo sobre um ponto específico da superfície 🌞. É usada em satélites de comunicação 📞, meteorologia 🌧️ e outros serviços que necessitam de cobertura constante 🌈. </h4>
-<img src="https://i.imgur.com/jka9YQI.jpeg" alt="imagem" width="400">
+
 
 ## 📈 Stats
 
