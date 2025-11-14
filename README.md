@@ -60,7 +60,7 @@
 <br/>
 
 ### Languages I have Love in:
-![C Badge](https://img.shields.io/badge/C-language-00599C?style=for-the-badge)
+![C](https://img.shields.io/badge/C-0D8C00?style=for-the-badge&logo=c&logoColor=white)
 ![Batch & ShellScript](https://img.shields.io/badge/-ShellScript&BatchScript-0D1117?style=for-the-badge&logo=gnu-bash&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
