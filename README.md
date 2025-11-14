@@ -4,8 +4,7 @@
 
 <center>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=C700FF&center=true&vCenter=true&width=600&lines=Hello%2C+i'am+gudan.;digitalWrite(13%2C+HIGH)%3B">" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&color=C700FF&center=true&vCenter=true&width=600&lines=Hello%2C+i'am+gudan.;digitalWrite(13%2C+HIGH)%3B"
 </center>
 <h4 align="left">🌟Atualmente, estou cursando Ciência da Computação na PUCMG, onde aprofundo meus conhecimentos em áreas como cibersegurança, redes e programação. Além dos estudos acadêmicos, estou constantemente aprimorando minhas habilidades em hacking ético, engenharia reversa e sistemas de segurança. Meu objetivo é me tornar um especialista na área, focando em contribuir para a pesquisa e inovação tecnológica. Busco uma base sólida para alcançar a excelência no meu campo e conquistar independência financeira. 💻🔐💸.
 <br> </h4>
