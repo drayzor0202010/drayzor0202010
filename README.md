@@ -54,10 +54,10 @@
 
 ### Languages I have proficiencies in:
 
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
+![C](src="https://img.shields.io/badge/C-%23239120.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"
 ![Batch & ShellScript](https://img.shields.io/badge/-ShellScript&BatchScript-0D1117?style=for-the-badge&logo=gnu-bash&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C](src="https://img.shields.io/badge/C-%23239120.svg?style=for-the-badge&logo=c&logoColor=white" alt="C")
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=panda12332145&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=FFFFFF&text_color=7B68EE&bg_color=0d1117" alt="Panda12332145 github stats" /> 
