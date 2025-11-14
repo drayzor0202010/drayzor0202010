@@ -1,5 +1,5 @@
 <a href="https://i.imgur.com/tNiB6XR.gif">
-  <img src="https://i.imgur.com/p2D6mpD.gif"/>
+  <img src="https://cdn.discordapp.com/attachments/1430392314232045568/1438920722885120020/5cff852e53e3ff1c9436a77c872b8b7a.gif?ex=6918a2da&is=6917515a&hm=03d0edc483243d31d5039044f7aa8b0dd1bb7e2cd9af5af1793b7ff1358bf9ed&"/>
 </a>
 
 <center>
