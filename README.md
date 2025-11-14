@@ -31,7 +31,14 @@
 
 
 
+<h2 align="center">📚 Languages & tools I Have placed My Hands On </h2>
 
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,sublime,vim,github,git,stackoverflow,atom,arduino,notion" /><br>
+    <img src="https://skillicons.dev/icons?i=windows,linux,kali,raspberrypi,debian,php,python,javascript,mysql,discord" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,bash,pwsh,photoshop,java,htmx,neovim" /><br>
+</div>
 
 
 
