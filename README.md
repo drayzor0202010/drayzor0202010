@@ -53,7 +53,7 @@
 <br/>
 
 ### Languages I have proficiencies in:
-
+https://camo.githubusercontent.com/9b6fcc33e34500819f305f3a4e469249ebe47ad1104090c42a9bae5043a173c8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d2532333233393132302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465
 ![Batch & ShellScript](https://img.shields.io/badge/-ShellScript&BatchScript-0D1117?style=for-the-badge&logo=gnu-bash&labelColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
