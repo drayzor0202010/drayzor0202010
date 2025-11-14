@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=28&color=C700FF&center=true&vCenter=true&width=600&lines=Hello%2C+i'am+gudan.;digitalWrite(13%2C+HIGH)%3B"
 </center>
-<h4 align="left">🧏Atualmente, estou focado no estudo de Arduino, explorando eletrônica, sensores e automação para entender como hardware e software podem trabalhar juntos. Além disso, estou avançando no aprendizado de Flutter, onde busco dominar o desenvolvimento multiplataforma, criando aplicativos modernos e eficientes para Android, iOS e Web. Paralelamente, continuo aprimorando minha lógica, minhas bases em programação e meu entendimento sobre sistemas e conectatividades. Meu objetivo é se tornar um profissional, capaz de criar coisas completas.💭
+<h4 align="left">🍀Atualmente, estou focado no estudo de Arduino, explorando eletrônica, sensores e automação para entender como hardware e software podem trabalhar juntos. Além disso, estou avançando no aprendizado de Flutter, onde busco dominar o desenvolvimento multiplataforma, criando aplicativos modernos e eficientes para Android, iOS e Web. Paralelamente, continuo aprimorando minha lógica, minhas bases em programação e meu entendimento sobre sistemas e conectatividades. Meu objetivo é se tornar um profissional, capaz de criar coisas completas.💭
 <br> </h4>
 
 
@@ -18,7 +18,7 @@
 </div>
 <img align="right" alt="coding-gif" width="400" height="250" src="https://i.imgur.com/NAVUyRI.gif">
 <a>
-- Como estudante de cibersegurança, iniciei meu percurso no mundo da programação aos oito anos de idade. Desde então, dediquei-me ao estudo de diversas linguagens, incluindo HTML, CSS, JavaScript, Powershell, Lua, Ruby, Assembly x86, Pascal, ShellScript, PHP, Python, BatchScript e COBOL. Minha paixão pela cibersegurança e hacking me levou a explorar não apenas a programação, mas também a física teórica. Sou entusiasta de desafios como CTF (Capture The Flag) e mergulho no mundo da fantasia através de RPG de mesa, como o D&D. Além disso, tenho um apreço especial por MUD (Multi-User Dungeon). Atualmente, concentro meus esforços no estudo da engenharia reversa de malwares. Possuo proficiência em C++, PHP, Powershell e ShellScript, buscando constantemente aprimorar minhas habilidades e conhecimentos nesses domínios.
+- Como entusiasta da cibersegurança, iniciei minha jornada explorando o universo da programação e da automação em sistemas. Desde então, tenho me dedicado ao estudo de linguagens como Bash, ShellScript, Python, Javascript, C e C++, Assembly Rust, aprofundando meus conhecimentos tanto no funcionamento interno dos sistemas quanto no desenvolvimento de soluções seguras e eficientes. Meu interesse também se estende ao ecossistema Arduino, onde exploro eletrônica básica e prototipagem, além do uso de Docker para ambientes isolados e testes de aplicações. A paixão pela segurança digital me motiva a estudar engenharia reversa, análise de vulnerabilidades e técnicas avançadas de programação. Também costumo testar minhas habilidades em desafios de lógica, wargames e laboratórios de segurança, que fortalecem meu pensamento analítico e meu domínio técnico. Atualmente, sigo aprimorando minha experiência em linguagens de sistemas, desenvolvimento multiplataforma e tecnologias voltadas à segurança.❤️
 </a>
 
 <h3>🌟 GeostationaryOrbit:</h3>
