@@ -6,7 +6,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=28&color=C700FF&center=true&vCenter=true&width=600&lines=Hello%2C+i'am+gudan.;digitalWrite(13%2C+HIGH)%3B"
 </center>
-<h4 align="left">🌟Atualmente, estou cursando Ciência da Computação na PUCMG, onde aprofundo meus conhecimentos em áreas como cibersegurança, redes e programação. Além dos estudos acadêmicos, estou constantemente aprimorando minhas habilidades em hacking ético, engenharia reversa e sistemas de segurança. Meu objetivo é me tornar um especialista na área, focando em contribuir para a pesquisa e inovação tecnológica. Busco uma base sólida para alcançar a excelência no meu campo e conquistar independência financeira. 💻🔐💸.
+<h4 align="left">🧏Atualmente, estou focado no estudo de Arduino, explorando eletrônica, sensores e automação para entender como hardware e software podem trabalhar juntos. Além disso, estou avançando no aprendizado de Flutter, onde busco dominar o desenvolvimento multiplataforma, criando aplicativos modernos e eficientes para Android, iOS e Web. Paralelamente, continuo aprimorando minha lógica, minhas bases em programação e meu entendimento sobre sistemas e conectatividades. Meu objetivo é se tornar um profissional, capaz de criar coisas completas.💭
 <br> </h4>
 
 
