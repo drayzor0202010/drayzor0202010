@@ -33,7 +33,7 @@
 
 
 <div align="center">
-  <h2>💻 Tech Stack:</h2>
+  <h2>❤️ Favorites k:</h2>
      <br/>
   <div align="center">
    <img src="https://img.shields.io/badge/C-%23239120.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" /> 
