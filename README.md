@@ -21,8 +21,7 @@
 - Como entusiasta da cibersegurança, iniciei minha jornada explorando o universo da programação e da automação em sistemas. Desde então, tenho me dedicado ao estudo de linguagens como ShellScript, Python, Javascript, C e C++, Assembly X86, Rust, aprofundando meus conhecimentos tanto no funcionamento interno dos sistemas quanto no desenvolvimento de soluções seguras e eficientes. Meu interesse também se estende ao ecossistema Arduino, onde exploro eletrônica básica e prototipagem, além do uso de Docker para ambientes isolados e testes de aplicações. A paixão pela segurança digital me motiva a estudar engenharia reversa, análise de vulnerabilidades e técnicas avançadas de programação. Também costumo testar minhas habilidades em desafios de lógica, wargames e laboratórios de segurança, que fortalecem meu pensamento analítico e meu domínio técnico. Atualmente, sigo aprimorando minha experiência em linguagens de sistemas, desenvolvimento multiplataforma e tecnologias voltadas à segurança.❤️
 </a>
 
-<h3>🌟 GeostationaryOrbit:</h3>
-<h4 align="left">A órbita geoestacionária 🌍 é uma órbita circular a cerca de 35.786 km 🚀 da Terra 🌐, onde o satélite 🛰️ se move com a mesma velocidade angular de rotação do planeta 🌪️. Isso faz com que o satélite pareça ficar fixo sobre um ponto específico da superfície 🌞. É usada em satélites de comunicação 📞, meteorologia 🌧️ e outros serviços que necessitam de cobertura constante 🌈. </h4>
+ </h4>
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg" width="50%" height="50%"/>
 
 
